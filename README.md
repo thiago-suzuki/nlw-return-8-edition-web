@@ -2,6 +2,8 @@
   NLW Return - 8ºEdição
 </h1>
 
+![Screenshot](src/assets/Site.png)
+
 ## 💻 Tecnologias Utilizadas nesse Projeto
 <div style="display: inline_block">
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
