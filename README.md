@@ -1,5 +1,5 @@
 <h1 align="center">
-  NLW Return - 8ºEdição
+  <img alt="NLW Return" title="NLW Return" width="350" src="https://i.imgur.com/IBHn1yK.png" />
 </h1>
 
 ![Screenshot](src/assets/Site.png)
